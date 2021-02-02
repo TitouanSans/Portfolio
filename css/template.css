@@ -442,6 +442,7 @@ strong {
 
 .tmp-aside {
     font-size: .95rem;
+    width: 30vw;
 }
 
 .tmp-aside h2 {
@@ -482,6 +483,7 @@ strong {
         border-top: 1px solid #787878;
         margin-top: 2.75rem;
         padding-top: 2rem;
+        width: 100%;
     }
 }
 @media screen and (min-width:841px) {
