@@ -11,7 +11,7 @@ document.getElementsByClassName('tmp-menu')[0].innerHTML = `
     <a href="index.html" class="active">Accueil</a>
     <!-- <a href="profil.html">Présentation</a> -->
     <!-- <a href="competences.html">Compétences</a> -->
-    <a href="images/competences/CV_TitouanSans_2021.pdf" target="_blank">Compétences</a>
+    <!-- <a href="images/competences/CV_TitouanSans_2021.pdf" target="_blank">Compétences</a> -->
     <a href="portfolio.html">Projets</a>
     <a href="images/competences/CV_TitouanSans_2021.pdf" target="_blank">CV</a>
     <!-- <a href="contact.html">Contact</a> -->
